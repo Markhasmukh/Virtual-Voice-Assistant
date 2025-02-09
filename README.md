@@ -39,6 +39,7 @@ Web Search: Conducts web searches based on user queries.
 HTML5: Structures the web content.
 CSS3: Styles the application for an engaging user interface.
 JavaScript: Implements the core functionalities, including voice recognition and response.
+
 5. Getting Started
 
 To run the Virtual Voice Assistant locally:
@@ -51,6 +52,7 @@ Navigate to the Project Directory:
 cd Virtual-Voice-Assistant
 Open index.html:
 Launch the index.html file in your preferred web browser to start the application.
+
 6. Usage
 
 Once the application is running:
@@ -80,6 +82,7 @@ Push to the Branch:
 
 git push origin feature-branch
 Open a Pull Request
+
 9. License
 
 This project is open-source and available under the MIT License.
