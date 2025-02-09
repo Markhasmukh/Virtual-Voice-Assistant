@@ -12,6 +12,7 @@ Usage
 Contributing
 License
 Acknowledgements
+
 2. Project Overview
 
 The Virtual Voice Assistant is a web-based application that listens to user commands and responds accordingly. Built using JavaScript, HTML, and CSS, it offers functionalities such as:
